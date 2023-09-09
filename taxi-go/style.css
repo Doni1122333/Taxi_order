@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: #FFF500;
+}
+h1{
+    padding: 45px;
+    display: inline-block;
+    font-size: 40px;
+}
+nav{
+    display: inline-block;
+    font-family: sans-serif; 
+    position: absolute;
+    right: 10%;
+    top: 8%;
+}
+header{
+    font-family: sans-serif;
+    vertical-align: top;
+    background-color: black;
+    color: white;
+    height: 140px;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+    font-size: 20px;
+}
+main{
+    background-image: url(../pictures/rajan-gosling.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+a {
+    color: #00000000;
+}
+h2{
+    padding: 300px;
+    color: white;
+    font-size: 30px;
+}
